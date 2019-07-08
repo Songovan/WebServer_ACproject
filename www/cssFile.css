@@ -1,0 +1,43 @@
+
+body {
+    background: linear-gradient(#e66465, #9198e5);
+    text-align: center;
+}   
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120%;
+    color: bisque;
+    text-align: center;
+}
+
+picture {
+    display: inline-block;
+}
+
+.presentation img {
+    border-radius: 30%;
+    width: 50%;
+    height: 50%;
+}
+
+.text {
+    text-align: center;
+    width: 70%;
+    position: relative;
+    left: 15%;
+    margin-bottom: 7%;
+}
+
+.presentation {
+    display: inline-block;
+}
+
+.details {
+    display: inline-block;
+}
+
+.btn-dark {
+    background: black;
+    color: white;
+}
